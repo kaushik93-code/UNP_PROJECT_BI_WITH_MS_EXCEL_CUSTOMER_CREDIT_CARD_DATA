@@ -2,7 +2,7 @@
 
 For this project we were divided in groups and we were given a bank's customers credit card data. 
 The given data was incomplete so using various excel functions like Vlookup, IF etc. we retrieved more data. 
-Then we made our KPIs through the eh=nhanced data and Made Pivot tables using them.
+Then we made our KPIs through the enhanced data and made Pivot tables using them.
 We made pivot tables using facors like gender, income of the customers, Age, etc. 
 Then we made pivot charts using the pivot tables. we chose the appropriate chart depending on the data.
 We combined all these pivot charts and made a Dashboard using them.
